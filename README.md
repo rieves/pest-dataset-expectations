@@ -18,7 +18,7 @@ Then inside your test, just pass the test subject to the DatasetExpectation inst
 
 ## Example
 
-```
+```php
 use App\Models\Post;
 use Carbon\Carbon;
 use PestDatasetExpectations\DatasetExpectation;
