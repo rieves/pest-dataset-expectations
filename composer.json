@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PestDatasetExpectations\\": "src/"
+            "Rieves\\PestDatasetExpectations\\": "src/"
         }
     },
     "minimum-stability": "dev",

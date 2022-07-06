@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PestDatasetExpectations;
+namespace Rieves\PestDatasetExpectations;
 
 use Closure;
 use Illuminate\Pipeline\Pipeline;
